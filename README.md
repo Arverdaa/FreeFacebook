@@ -10,3 +10,14 @@ Tools ini untuk crack massal
     $ cd FreeFacebook
     $ pip3 install -r requirements.txt
     $ python3 free.py
+# FREEFACEBOOK
+FREE FACEBOOK
+<h1 align="center">
+    💀FBBK💀
+</h1>
+<h4 align="center">
+  🇮🇩CYBER EXPLOIT🇮🇩
+</h4>
+<p align="center">
+<a href="#"><img title="Author by Arverdaa" src="https://img.shields.io/badge/Coded%20By-Arverdaa-green?"></a>
+<a href="#"><img title="Author by ARVERDAA" src="https://img.shields.io/badge/Code%20-python2.7-blue?"></a>
