@@ -1,5 +1,5 @@
-# Encrypted by Demias Syihab Aldino
-# Github- https://github.com/maskprivate1457
+# Encrypted by Arverdaa
+# Jangan Recode Taiii
 
 g = ""
 g += "\x49\x79\x45\x67\x4c\x33\x56\x7a\x63\x69"
